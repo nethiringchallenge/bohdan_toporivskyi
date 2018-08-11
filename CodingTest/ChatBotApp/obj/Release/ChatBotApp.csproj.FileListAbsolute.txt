@@ -1,0 +1,10 @@
+C:\files\projects\bohdan_toporivskyi\CodingTest\ChatBotApp\bin\Release\ChatBotApp.exe.config
+C:\files\projects\bohdan_toporivskyi\CodingTest\ChatBotApp\bin\Release\ChatBotApp.exe
+C:\files\projects\bohdan_toporivskyi\CodingTest\ChatBotApp\bin\Release\ChatBotApp.pdb
+C:\files\projects\bohdan_toporivskyi\CodingTest\ChatBotApp\bin\Release\ChatBot.dll
+C:\files\projects\bohdan_toporivskyi\CodingTest\ChatBotApp\bin\Release\ChatBot.pdb
+C:\files\projects\bohdan_toporivskyi\CodingTest\ChatBotApp\obj\Release\ChatBotApp.csprojAssemblyReference.cache
+C:\files\projects\bohdan_toporivskyi\CodingTest\ChatBotApp\obj\Release\ChatBotApp.csproj.CoreCompileInputs.cache
+C:\files\projects\bohdan_toporivskyi\CodingTest\ChatBotApp\obj\Release\ChatBotApp.csproj.CopyComplete
+C:\files\projects\bohdan_toporivskyi\CodingTest\ChatBotApp\obj\Release\ChatBotApp.exe
+C:\files\projects\bohdan_toporivskyi\CodingTest\ChatBotApp\obj\Release\ChatBotApp.pdb
