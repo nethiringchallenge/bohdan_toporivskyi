@@ -7,7 +7,6 @@ using System.Linq;
 namespace ChatBotApp {
     class Program {
         static void Main(string[] args) {
-
             var strategy = GetStrategyParam(args);
 
             var answers = ReadFile(args);
@@ -31,14 +30,19 @@ namespace ChatBotApp {
         }
 
         private static string GetFilePath(string[] args) {
-            var filePath = @"C:\files\projects\codingtest\answers.txt";
 
-            return filePath; // tmp
+            var argsList = args.ToList();
+            var start = argsList.IndexOf("-f") + 1;
+
+            return argsList[start]; // tmp
         }
 
         private static string GetStrategyParam(string[] args) {
 
-            return "rand"; // tmp
+            var argsList = args.ToList();
+            var start = argsList.IndexOf("-r") + 1;
+
+            return argsList[start]; // tmp
         }
     }
 }

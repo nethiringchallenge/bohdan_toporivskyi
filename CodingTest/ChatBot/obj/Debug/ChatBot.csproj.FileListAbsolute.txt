@@ -1,0 +1,5 @@
+C:\files\projects\bohdan_toporivskyi\CodingTest\ChatBot\bin\Debug\ChatBot.dll
+C:\files\projects\bohdan_toporivskyi\CodingTest\ChatBot\bin\Debug\ChatBot.pdb
+C:\files\projects\bohdan_toporivskyi\CodingTest\ChatBot\obj\Debug\ChatBot.csproj.CoreCompileInputs.cache
+C:\files\projects\bohdan_toporivskyi\CodingTest\ChatBot\obj\Debug\ChatBot.dll
+C:\files\projects\bohdan_toporivskyi\CodingTest\ChatBot\obj\Debug\ChatBot.pdb
